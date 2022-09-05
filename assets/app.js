@@ -7,7 +7,7 @@ document.querySelector("#btn-list").onclick = function () {
            <li class="list-group-item">
              - ${document.querySelector("#input-list").value}
              <button class="delete btn btn-sm btn-outline-danger mx-2">
-               <i class="bi bi-trash3"></i>
+               <i class="bi bi-trash"></i>
              </button>
            </li>
          </ul>
